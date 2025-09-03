@@ -16,9 +16,7 @@ A fun little **Node.js ES Module** project that fetches random jokes from the [O
 ---
 
 ## 🛠️ Setup & Run
-
-1. **Clone the repo**
-
-   git clone https://github.com/Vibhay007/randomJokeGenerator.git
-
-
+**Clone the repo**
+   ```bash
+   git clone  https://github.com/Vibhay007/randomJokeGenerator.git
+  
